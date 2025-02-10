@@ -60,8 +60,17 @@ git pull origin main
 3. `git remote add origin YOUR_REPO_URL`
 4. `git push -u origin main`
 
+
+
+*************
+
+
 Then, when a new change is added to the upstream repo, you can add it to your own repo by running:
 1. `git pull upstream main`
 2. `git push`
 
 *Note:* it is recommended to use git through a client like VS Code and sign in with your GitHub user. If you use git in a terminal, you may need to authenticate with GitHub with a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) as your password.
+
+
+
+*************
